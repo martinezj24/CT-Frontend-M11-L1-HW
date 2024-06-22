@@ -1,0 +1,32 @@
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about, .contact {
+  margin-bottom: 40px;
+}
+
+.about h2, .contact h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.about p {
+  font-size: 1.2rem;
+}
+
+.contact ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact ul li {
+  margin-bottom: 10px;
+}

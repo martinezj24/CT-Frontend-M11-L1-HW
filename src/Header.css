@@ -1,0 +1,21 @@
+.header {
+    background-image: url('https://img.freepik.com/free-vector/abstract-blue-technology-background_23-2149352058.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .header__overlay {
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 3rem;
+  }
